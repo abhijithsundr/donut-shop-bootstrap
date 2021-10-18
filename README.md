@@ -4,5 +4,5 @@ A simple introductory web page for a donut shop built using html, sass and boots
 # Running the project
 `npm run dev`
 
-#Building the project
+# Building the project
 `npm run build`
